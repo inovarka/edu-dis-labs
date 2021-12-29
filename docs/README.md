@@ -3,17 +3,17 @@ home: true
 actionText: Розпочати →
 actionLink: /intro/
 
-footer: "ECL 2.0 Licensed | Copyright © [YYYY] [Your Name]"
+footer: "ECL 2.0 Licensed | Copyright © 2021 inovarka"
 ---
 
 
-**Виконали:** 
+**Виконав:** 
 
-*студенти [X]-го курсу, групи (шифр групи)* 
+*Студент 4-го курсу, групи ІП-84* 
 
-**[ім’я ПРІЗВИЩЕ] [Посилання email, tg, fb]**
-
-**[ім’я ПРІЗВИЩЕ] [Посилання email, tg, fb]**
+**Тимофеєнко Павло**  
+**E-mail:** paveltimofeenko@gmail.com  
+**Telegram:** @inovarka
 
 
 **Керівник**
