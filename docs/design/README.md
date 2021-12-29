@@ -78,7 +78,7 @@ cache -> server
 Архітектура додатку має наступний вигляд
 
 <center>
-    <img src="/architecture.png" style="
+    <img src="https://i.postimg.cc/vHLvd9cz/architecture.png" style="
     width:60%;
     margin:1em 0;
     border-radius:4px;

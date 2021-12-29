@@ -28,7 +28,7 @@ public IActionResult Create([FromBody] TodoItem item)
 ### Використання Postman для надсилання запиту Create
 
 <center>
-    <img src="/postman1.png" style="
+    <img src="https://i.postimg.cc/QNg7BDhN/postman1.png" style="
     width:60%;
     margin:1em 0;
     border-radius:4px;
@@ -47,7 +47,7 @@ public IActionResult Create([FromBody] TodoItem item)
 Виберіть закладку Headers та скопіюйте заголовок **Location**:
 
 <center>
-    <img src="/postman2.png" style="
+    <img src="https://i.postimg.cc/qMk3yFvs/postman2.png" style="
     width:60%;
     margin:1em 0;
     border-radius:4px;
@@ -88,7 +88,7 @@ public IActionResult Update(string id, [FromBody] TodoItem item)
 ```Update``` подібний до ```Create```, але використовує HTTP PUT. Відповідь [204 (Немає вмісту)](https://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html). Відповідно до специфікації HTTP на запит PUT потрібно, щоб клієнт відправив оновлений об'єкт повністю, а не тільки дельти. Для підтримки часткових оновлень використовуйте HTTP PATCH.
 
 <center>
-    <img src="/postman3.png" style="
+    <img src="https://i.postimg.cc/Cx2nyLH7/postman3.png" style="
     width:60%;
     margin:1em 0;
     border-radius:4px;
@@ -123,7 +123,7 @@ public IActionResult Update([FromBody] TodoItem item, string id)
 ```
 
 <center>
-    <img src="/postman4.png" style="
+    <img src="https://i.postimg.cc/02cJfCzL/postman4.png" style="
     width:60%;
     margin:1em 0;
     border-radius:4px;
@@ -150,7 +150,7 @@ public IActionResult Delete(string id)
 Відповідь [204 (Немає вмісту)](https://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html).
 
 <center>
-    <img src="/postman5.png" style="
+    <img src="https://i.postimg.cc/htvQ37xh/postman5.png" style="
     width:60%;
     margin:1em 0;
     border-radius:4px;
