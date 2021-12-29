@@ -15,7 +15,7 @@ module.exports = {
     }]
   ],
   port: 3030,
-  base: '/edu-dis-labs/',
+  base: '',
   theme: 'cool',
   // dest: 'dist',
   head: [
